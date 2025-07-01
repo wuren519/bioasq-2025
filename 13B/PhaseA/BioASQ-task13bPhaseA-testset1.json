@@ -1,0 +1,429 @@
+{
+  "questions": [
+    {
+      "id": "67d74cde18b1e36f2e00003c",
+      "type": "summary",
+      "body": "Describe RankMHC"
+    },
+    {
+      "id": "65f7741fc4010b4d78000027",
+      "type": "factoid",
+      "body": "What proportion of colorectal cancer cases are not assignable to any of the consensus molecular subtype (CMS) groups?"
+    },
+    {
+      "id": "67cc973e81b1027333000011",
+      "type": "list",
+      "body": "Please list the short half life Phosphodiesterase 5 inhibitors."
+    },
+    {
+      "id": "67d722e818b1e36f2e000036",
+      "type": "summary",
+      "body": "Pathophysiology of irritable bowel syndrome (IBS)."
+    },
+    {
+      "id": "67da17c918b1e36f2e000055",
+      "type": "summary",
+      "body": "What is the role of the receptor tyrosine kinase AXL in malignancy?"
+    },
+    {
+      "id": "66301d1d187cba990d000026",
+      "type": "yesno",
+      "body": "Are respiratory measurements correlated with disease severity in Duchenne Muscular Dystrophy?"
+    },
+    {
+      "id": "67d3518718b1e36f2e000008",
+      "type": "factoid",
+      "body": "Which disease is caused by heterozygous UCHL1 loss-of-function variants?"
+    },
+    {
+      "id": "662154f0b9f8b89d7e000009",
+      "type": "factoid",
+      "body": "What is the most appropriate systemic treatment for conversion therapy in colorectal cancer with potentially resectable liver metastasis?"
+    },
+    {
+      "id": "67c847f581b1027333000003",
+      "type": "yesno",
+      "body": "Is age an underlying factor in the eye disease AMD?"
+    },
+    {
+      "id": "67d7fe2618b1e36f2e000044",
+      "type": "factoid",
+      "body": "Vector of zika virus."
+    },
+    {
+      "id": "67d7503018b1e36f2e00003e",
+      "type": "list",
+      "body": "What are the main transcription factors driving the mesenchymal-like (MES-like) state of glioblastoma multiforme?"
+    },
+    {
+      "id": "67d34fb318b1e36f2e000007",
+      "type": "factoid",
+      "body": "Which role does AAAGG have in RFC1 repeat expansions?"
+    },
+    {
+      "id": "662fc277187cba990d000013",
+      "type": "yesno",
+      "body": "Does the consensus molecular subtype (CMS) classification for colorectal cancer any use in routine clinical practice?"
+    },
+    {
+      "id": "67cddce881b102733300001c",
+      "type": "list",
+      "body": "Please list major complications of Clostridum Difficile infection."
+    },
+    {
+      "id": "67d43cd218b1e36f2e000011",
+      "type": "list",
+      "body": "Symptoms of polycystic ovarian syndrome."
+    },
+    {
+      "id": "67d9f6a418b1e36f2e000051",
+      "type": "list",
+      "body": "What are the lineage transcription factors of oligodendrocyte progenitor cells (OPCs)?"
+    },
+    {
+      "id": "67d7531018b1e36f2e000041",
+      "type": "list",
+      "body": "Data from which clinical trials have been used to demonstrate use of knowledge graphs for NSCLC survival prediction?"
+    },
+    {
+      "id": "660999a0fdcbea915f00001a",
+      "type": "list",
+      "body": "What are the colorectal surgical options for patients with Familial Polyposis?"
+    },
+    {
+      "id": "67c7708481b1027333000002",
+      "type": "yesno",
+      "body": "Is mucopolysaccharidosis-plus syndrome (MPSPS) a X-linked disease?"
+    },
+    {
+      "id": "67d7201b18b1e36f2e00002c",
+      "type": "list",
+      "body": "Indications of cesarean section."
+    },
+    {
+      "id": "67da148418b1e36f2e000054",
+      "type": "list",
+      "body": "What are the main transcriptional cell states found in melanoma?"
+    },
+    {
+      "id": "67d3434d18b1e36f2e000002",
+      "type": "factoid",
+      "body": "Which biomedical challenge has been designed to facilitate interaction between biomedical experts and automated question-answering systems in order to promote COVID-19 research?"
+    },
+    {
+      "id": "662fc6aa187cba990d000017",
+      "type": "summary",
+      "body": "Why is Trifluridine/Tipiracil more active than other fluorpyrimidines in colorectal cancer patients?"
+    },
+    {
+      "id": "67cc89fa81b102733300000c",
+      "type": "yesno",
+      "body": "Is the inactivation of the X chromsome linked to cognition?"
+    },
+    {
+      "id": "67d4354518b1e36f2e000010",
+      "type": "factoid",
+      "body": "Prevalence of Premenstrual Dysphoric Disorder"
+    },
+    {
+      "id": "67d74a9b18b1e36f2e00003a",
+      "type": "yesno",
+      "body": "Are transcription factors of the GATA family found in the brain?"
+    },
+    {
+      "id": "67d41b8518b1e36f2e00000d",
+      "type": "yesno",
+      "body": "Is there any role between AGRN and Myasthenia gravis?"
+    },
+    {
+      "id": "67cdbe0c81b1027333000019",
+      "type": "list",
+      "body": "Please list the 4 problems that are found in the tetrology of Fallot."
+    },
+    {
+      "id": "67d7238518b1e36f2e000038",
+      "type": "summary",
+      "body": "Regarding genetic transmission of bipolar disorder, has any specific gene/mutation been identified?"
+    },
+    {
+      "id": "67d74b0418b1e36f2e00003b",
+      "type": "summary",
+      "body": "How does hypoxia influence the cell states of glioblastoma multiforme (GBM)?"
+    },
+    {
+      "id": "67d496ed18b1e36f2e000019",
+      "type": "factoid",
+      "body": "What\u0027s the increase in CORE profiles in JASPAR 2024 compared to the previous version?"
+    },
+    {
+      "id": "67cdca3881b102733300001b",
+      "type": "summary",
+      "body": "What is the mode of action for baclofen?"
+    },
+    {
+      "id": "67d6bf9a18b1e36f2e000023",
+      "type": "list",
+      "body": "Adverse effects of metformin."
+    },
+    {
+      "id": "67c7392981b1027333000001",
+      "type": "list",
+      "body": "What are the main cell states of glioblastoma multiforme (GBM)?"
+    },
+    {
+      "id": "67d34ad518b1e36f2e000005",
+      "type": "yesno",
+      "body": "Is high WEE1 expression linked to PARP inhibition resistance?"
+    },
+    {
+      "id": "67cc9e6381b1027333000016",
+      "type": "list",
+      "body": "Please list the surgical treatments for Pilomatrix carcinoma."
+    },
+    {
+      "id": "67d7fe1718b1e36f2e000043",
+      "type": "factoid",
+      "body": "Vector of dengue infection."
+    },
+    {
+      "id": "67da131f18b1e36f2e000053",
+      "type": "yesno",
+      "body": "Is there a shift in the cell states of glioblastoma during recurrence?"
+    },
+    {
+      "id": "67d45d5818b1e36f2e000012",
+      "type": "factoid",
+      "body": "In which population has it been described an association between the CUBN gene and T2DM genetic susceptibility?"
+    },
+    {
+      "id": "67cde99581b102733300001f",
+      "type": "yesno",
+      "body": "Can stem cell therapies be used to treat xerostomia"
+    },
+    {
+      "id": "67d6bda918b1e36f2e000021",
+      "type": "factoid",
+      "body": "What is the cause of African trypanosomiasis?"
+    },
+    {
+      "id": "67d7506e18b1e36f2e00003f",
+      "type": "factoid",
+      "body": "What is the consensus binding site of the TEAD transcription factors?"
+    },
+    {
+      "id": "67d4854918b1e36f2e000014",
+      "type": "summary",
+      "body": "Describe Variant Ranker"
+    },
+    {
+      "id": "67cec6e781b1027333000021",
+      "type": "yesno",
+      "body": "Is creatinine usually elevated in Drug-induced intestinal neuropathy(DAIN)?"
+    },
+    {
+      "id": "67d721d118b1e36f2e000031",
+      "type": "yesno",
+      "body": "Are systemic beta lactams considered harmful to the human microbiome?"
+    },
+    {
+      "id": "67da0c0f18b1e36f2e000052",
+      "type": "factoid",
+      "body": "What is the most common EGFR mutation in glioblastoma multiforme?"
+    },
+    {
+      "id": "67d486e118b1e36f2e000015",
+      "type": "list",
+      "body": "Which cardiovascular events are associated with ALOX12 gene polymorphisms?"
+    },
+    {
+      "id": "67cc9bef81b1027333000013",
+      "type": "factoid",
+      "body": "What is DRESS in the context of drug therapy?"
+    },
+    {
+      "id": "67d430f918b1e36f2e00000f",
+      "type": "list",
+      "body": "Adverse effects of statins."
+    },
+    {
+      "id": "67d3460218b1e36f2e000004",
+      "type": "summary",
+      "body": "Describe oncoEnrichR"
+    },
+    {
+      "id": "67cc9ca681b1027333000014",
+      "type": "list",
+      "body": "What are the treatments for endometrioma/endometriosis?"
+    },
+    {
+      "id": "67d7fee818b1e36f2e000048",
+      "type": "summary",
+      "body": "Association between hypothyroidism and depression."
+    },
+    {
+      "id": "67d48f6c18b1e36f2e000017",
+      "type": "factoid",
+      "body": "Which computational method exists for prediction of transcriptional condensate-associated genomic regions?"
+    },
+    {
+      "id": "67cf221a81b1027333000022",
+      "type": "factoid",
+      "body": "What tissue would be used to derive  Wharton\u0027s Jelly Mesenchymal Stem Cells?"
+    },
+    {
+      "id": "67d6c1bb18b1e36f2e000029",
+      "type": "list",
+      "body": "Causes of infectious myocardiopathy."
+    },
+    {
+      "id": "67d49ade18b1e36f2e00001b",
+      "type": "summary",
+      "body": "What\u0027s the effect of germline-mediated immunoediting?"
+    },
+    {
+      "id": "67cc94f681b102733300000e",
+      "type": "list",
+      "body": "Please list diseases that can be treated with MSCs, Human Mesenchymal Stem cells"
+    },
+    {
+      "id": "67d723d918b1e36f2e000039",
+      "type": "summary",
+      "body": "Are there biomarkers of depression?"
+    },
+    {
+      "id": "67d34e2518b1e36f2e000006",
+      "type": "list",
+      "body": "What is caused by Biallelic CRELD1 variants?"
+    },
+    {
+      "id": "67cc960381b102733300000f",
+      "type": "factoid",
+      "body": "What are desflurane and sevoflurane?"
+    },
+    {
+      "id": "67d7232418b1e36f2e000037",
+      "type": "summary",
+      "body": "Are there inflammatory markers of dysmenorrhea?"
+    },
+    {
+      "id": "67d751e418b1e36f2e000040",
+      "type": "factoid",
+      "body": "Which protein is silencing MIR139 in order to promote AML oncogenesis?"
+    },
+    {
+      "id": "67cc97c481b1027333000012",
+      "type": "factoid",
+      "body": "On what part of the body is Fontan Palliation(AKA Fontan proceedure) performed?"
+    },
+    {
+      "id": "67d6b4e218b1e36f2e00001e",
+      "type": "yesno",
+      "body": "Is childhood asthma more common in highly polluted areas?"
+    },
+    {
+      "id": "67d4161318b1e36f2e00000a",
+      "type": "yesno",
+      "body": "Does nucleosomal DNA have topological memory?"
+    },
+    {
+      "id": "67c9e84181b1027333000008",
+      "type": "factoid",
+      "body": "What cellular process is Listeriolysin associated with?"
+    },
+    {
+      "id": "67d7203018b1e36f2e00002d",
+      "type": "factoid",
+      "body": "Estimated prevalence of postpartum psychosis."
+    },
+    {
+      "id": "67d497c418b1e36f2e00001a",
+      "type": "factoid",
+      "body": "What\u0027s the effect of liver RBFOX2?"
+    },
+    {
+      "id": "67cc826c81b102733300000b",
+      "type": "yesno",
+      "body": "Is Geographic Atrophy(GA) found in the hand or foot?"
+    },
+    {
+      "id": "67d7fe6a18b1e36f2e000046",
+      "type": "summary",
+      "body": "Manifestations of herpes genital infection."
+    },
+    {
+      "id": "67d352e918b1e36f2e000009",
+      "type": "list",
+      "body": "What is caused by heterozygous loss of function SPTAN1?"
+    },
+    {
+      "id": "67cc969581b1027333000010",
+      "type": "summary",
+      "body": "Whats is the effect of berberine in ischemic stroke?"
+    },
+    {
+      "id": "67d7fe9318b1e36f2e000047",
+      "type": "summary",
+      "body": "Association between eating disorders and ADHD."
+    },
+    {
+      "id": "67d418f418b1e36f2e00000c",
+      "type": "summary",
+      "body": "What is the association of ORM1 and cell-free DNA?"
+    },
+    {
+      "id": "67cc9d4c81b1027333000015",
+      "type": "yesno",
+      "body": "Are ameleographics (AKA tooth prints) useful for forensic identification?"
+    },
+    {
+      "id": "67d81c7218b1e36f2e00004d",
+      "type": "list",
+      "body": "Characteristics of prion diseases."
+    },
+    {
+      "id": "67d4903418b1e36f2e000018",
+      "type": "factoid",
+      "body": "Which gene shapes the 3D enhancer network of the developing T cell genome?"
+    },
+    {
+      "id": "67c9e48f81b1027333000005",
+      "type": "summary",
+      "body": "How is a  neoantigen created?"
+    },
+    {
+      "id": "67d7219018b1e36f2e000030",
+      "type": "list",
+      "body": "Causes of sudden deafness."
+    },
+    {
+      "id": "67d74dd718b1e36f2e00003d",
+      "type": "list",
+      "body": "Which types of data does the EURO-NMD registry capture?"
+    },
+    {
+      "id": "67cdbdb981b1027333000018",
+      "type": "factoid",
+      "body": "What tissue is the origin of adnexal masses."
+    },
+    {
+      "id": "67d7228818b1e36f2e000034",
+      "type": "factoid",
+      "body": "Mean survival after a diagnosis of multiple sclerosis."
+    },
+    {
+      "id": "67d49cf318b1e36f2e00001c",
+      "type": "summary",
+      "body": "Describe the SEQUOIA tool for predicting cancer transcriptomics profiles from histology images"
+    },
+    {
+      "id": "67c9e75881b1027333000006",
+      "type": "factoid",
+      "body": "What is the function of CD47"
+    },
+    {
+      "id": "67d6c10618b1e36f2e000027",
+      "type": "yesno",
+      "body": "Is the use of surfactant restricted to neonatology?"
+    }
+  ]
+}
